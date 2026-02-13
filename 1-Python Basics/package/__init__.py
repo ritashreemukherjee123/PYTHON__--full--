@@ -1,0 +1,1 @@
+### __init__.py is a special Python file that is used to indicate that the directory it is in should be treated as a package. It can be left empty or can contain initialization code for the package. In this case, since the file is empty, it simply serves to mark the directory as a package.
